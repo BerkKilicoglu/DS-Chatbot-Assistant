@@ -1,0 +1,2062 @@
+{
+  "intents": [
+    {
+      "intent": "APPproteinHK.",
+      "examples": [
+        {
+          "text": "APP"
+        },
+        {
+          "text": "APP ile ilgili"
+        },
+        {
+          "text": "APP proteini"
+        },
+        {
+          "text": "APP proteini hakkında detaylı bilgi almak istiyorum"
+        },
+        {
+          "text": "APP proteins"
+        },
+        {
+          "text": "APP proteniyle ilgili"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "BaşkaBirİsteğin",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "bilgial",
+      "examples": [
+        {
+          "text": "bana yardım et"
+        },
+        {
+          "text": "bbilgi ver"
+        },
+        {
+          "text": "bblgi almak istm"
+        },
+        {
+          "text": "beni bilgilendirir misin?"
+        },
+        {
+          "text": "bilgi almak istiyorum"
+        },
+        {
+          "text": "bilgi almk isytrm"
+        },
+        {
+          "text": "bilgilendir beni"
+        },
+        {
+          "text": "bilgi vers"
+        },
+        {
+          "text": "bilgi verss"
+        },
+        {
+          "text": "blg ver"
+        },
+        {
+          "text": "information me"
+        },
+        {
+          "text": "infornation"
+        },
+        {
+          "text": "öğrenmek istiyorum"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "BRAFproteinHK.",
+      "examples": [
+        {
+          "text": "BRAF"
+        },
+        {
+          "text": "BRAF bilgi ver"
+        },
+        {
+          "text": "BRAF lütfen"
+        },
+        {
+          "text": "BRAF protein"
+        },
+        {
+          "text": "BRAF proteini"
+        },
+        {
+          "text": "BRAF proteini hakkında detaylı bilgi almak istiyorum"
+        },
+        {
+          "text": "BRAF proteini ilgili bilgi ver"
+        },
+        {
+          "text": "BRAF proteini lütfen"
+        },
+        {
+          "text": "BRAF proteins"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DownSndrmHk.",
+      "examples": [
+        {
+          "text": "down sendrom"
+        },
+        {
+          "text": "Down Sendromu"
+        },
+        {
+          "text": "down sendromu hakkında"
+        },
+        {
+          "text": "down sendromu hakkında bilgi almak istiyorum"
+        },
+        {
+          "text": "down syndrome"
+        },
+        {
+          "text": "DS"
+        },
+        {
+          "text": "dwn sndrm"
+        },
+        {
+          "text": "trizomi"
+        },
+        {
+          "text": "trizomy"
+        },
+        {
+          "text": "Trizomyy"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Glob",
+      "examples": [
+        {
+          "text": "Dünya"
+        },
+        {
+          "text": "Dünya geneli"
+        },
+        {
+          "text": "dünya geneli global hakkında bilgi almak istiyorum"
+        },
+        {
+          "text": "dünya geneli hakkında bilgi almak istiyorum"
+        },
+        {
+          "text": "dünya geneli lütfen"
+        },
+        {
+          "text": "dünya global geneli lütfen"
+        },
+        {
+          "text": "Global"
+        },
+        {
+          "text": "Global bilgi"
+        },
+        {
+          "text": "global geneli lütfen"
+        },
+        {
+          "text": "global hakkında bilgi almak istiyorum"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "GluR3proteinHk",
+      "examples": [
+        {
+          "text": "GluR3"
+        },
+        {
+          "text": "GluR3 ile ilgili"
+        },
+        {
+          "text": "GluR3 lütfen"
+        },
+        {
+          "text": "GluR3 protein"
+        },
+        {
+          "text": "GluR3 protein hakkında"
+        },
+        {
+          "text": "GluR3 proteini ile ilgili"
+        },
+        {
+          "text": "GluR3 proteini ilgili detaylı bilgi almak istyorum"
+        },
+        {
+          "text": "GluR3 proteini lütfen"
+        },
+        {
+          "text": "GluR3 proteiniyle ilgili"
+        },
+        {
+          "text": "GluR3 proteins"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hoşçakal",
+      "examples": [
+        {
+          "text": "bb"
+        },
+        {
+          "text": "by"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "byes"
+        },
+        {
+          "text": "görüşmek üzere"
+        },
+        {
+          "text": "görüşürüz"
+        },
+        {
+          "text": "hoşçakal"
+        },
+        {
+          "text": "kendine iyi bak"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "IL1BproteinHk.",
+      "examples": [
+        {
+          "text": "IL1"
+        },
+        {
+          "text": "IL1B"
+        },
+        {
+          "text": "IL1B protein"
+        },
+        {
+          "text": "IL1B proteini"
+        },
+        {
+          "text": "IL1B proteini hakkında"
+        },
+        {
+          "text": "IL1B proteini hakkında detaylı bilgi lütfen"
+        },
+        {
+          "text": "IL1B proteini için istiyorum"
+        },
+        {
+          "text": "IL1B proteini ilgili detaylı bilgi"
+        },
+        {
+          "text": "IL1B proteini lütfen"
+        },
+        {
+          "text": "IL1B proteins"
+        },
+        {
+          "text": "IL1B protiniyle ilgili"
+        },
+        {
+          "text": "ILIB"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "İstatikselDurum",
+      "examples": [
+        {
+          "text": "istatikler"
+        },
+        {
+          "text": "istatiksel durum"
+        },
+        {
+          "text": "istatiksel durum hakkında bilgi almak istiyorum"
+        },
+        {
+          "text": "istatistik bilgileri nelerdir"
+        },
+        {
+          "text": "istatistikler bilgiler"
+        },
+        {
+          "text": "istatistiksel durum hakkında bilgi alabilir miyim"
+        },
+        {
+          "text": "istatistilsel durm"
+        },
+        {
+          "text": "statistics"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Memantinehk",
+      "examples": [
+        {
+          "text": "ilaç"
+        },
+        {
+          "text": "ilaçla ilgili"
+        },
+        {
+          "text": "ilaçla ilgili bilgi ver"
+        },
+        {
+          "text": "memantine"
+        },
+        {
+          "text": "memantine ilacı hakkında lütfen"
+        },
+        {
+          "text": "Memantine ile ilgili bilgi ver"
+        },
+        {
+          "text": "memantine ne"
+        },
+        {
+          "text": "memantine nedir"
+        },
+        {
+          "text": "menmntine"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "NR2AproteinHK.",
+      "examples": [
+        {
+          "text": "NR2A"
+        },
+        {
+          "text": "NR2A hakkında detaylı bilgi"
+        },
+        {
+          "text": "NR2A lütfen"
+        },
+        {
+          "text": "NR2A proteini"
+        },
+        {
+          "text": "NR2A proteini hakkında detaylı bilgi almak istiyorum"
+        },
+        {
+          "text": "NR2A proteini ile ilgili"
+        },
+        {
+          "text": "NR2A proteiniyle ilgili"
+        },
+        {
+          "text": "NR2A proteins"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "NR2BproteinHk.",
+      "examples": [
+        {
+          "text": "NR2B"
+        },
+        {
+          "text": "NR2B proteini"
+        },
+        {
+          "text": "NR2B proteini hakkında detaylı bilgi almak istiyorum"
+        },
+        {
+          "text": "NR2B proteini hakkında detaylı bilgi lütfen"
+        },
+        {
+          "text": "NR2B proteini lütfen"
+        },
+        {
+          "text": "NR2B proteiniyle ilgili bilgi almak istiyorum"
+        },
+        {
+          "text": "NR2B proteins"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Onaylama",
+      "examples": [
+        {
+          "text": "detaylı bilgi verir misin"
+        },
+        {
+          "text": "evet"
+        },
+        {
+          "text": "evet detaylı bilgi istiyorum"
+        },
+        {
+          "text": "evet lütfen"
+        },
+        {
+          "text": "evt"
+        },
+        {
+          "text": "istiyorum"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "P38proteinHk.",
+      "examples": [
+        {
+          "text": "p38"
+        },
+        {
+          "text": "p38le ilgili bilgi almak istiyorum"
+        },
+        {
+          "text": "p38 lütfen"
+        },
+        {
+          "text": "p38 nedir"
+        },
+        {
+          "text": "p38 protein"
+        },
+        {
+          "text": "p38 proteini"
+        },
+        {
+          "text": "p38 proteini için bilgi almak istiyorum"
+        },
+        {
+          "text": "p38 proteini ile ilgili detaylı bilgi almak istiyorum"
+        },
+        {
+          "text": "p38 proteini lütfen"
+        },
+        {
+          "text": "protein p38"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ProteinlerHk.",
+      "examples": [
+        {
+          "text": "proteinler"
+        },
+        {
+          "text": "proteinler hakkında bilgi almak istiyorum."
+        },
+        {
+          "text": "proteinler ilgili bilgi almak istiyorum"
+        },
+        {
+          "text": "proteinler nedir"
+        },
+        {
+          "text": "protein listesi nedir"
+        },
+        {
+          "text": "prtnler"
+        },
+        {
+          "text": "prtnlr"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Reddetme",
+      "examples": [
+        {
+          "text": "gerek yok"
+        },
+        {
+          "text": "hayir"
+        },
+        {
+          "text": "Hayır"
+        },
+        {
+          "text": "hyr"
+        },
+        {
+          "text": "istemem"
+        },
+        {
+          "text": "istemiyorum"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "nope"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "S6proteinHk.",
+      "examples": [
+        {
+          "text": "S6"
+        },
+        {
+          "text": "s6 ilgili"
+        },
+        {
+          "text": "s6 lütfen"
+        },
+        {
+          "text": "s6 protein"
+        },
+        {
+          "text": "S6 proteini"
+        },
+        {
+          "text": "S6 proteini hakkında detaylı bilgi"
+        },
+        {
+          "text": "s6 proteini lütfen"
+        },
+        {
+          "text": "s6 proteiniyle ilgili bilgi almak istiyorum"
+        },
+        {
+          "text": "s6 proteins"
+        },
+        {
+          "text": "s6 proteniyle ilgili bilgi almak istiyorum"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Selamlama",
+      "examples": [
+        {
+          "text": "heeeeeeeeey"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "iyi akşamlar"
+        },
+        {
+          "text": "İyi günler"
+        },
+        {
+          "text": "Kimse varmı ?"
+        },
+        {
+          "text": "merab"
+        },
+        {
+          "text": "merhaa"
+        },
+        {
+          "text": "merhaaba"
+        },
+        {
+          "text": "Merhaba"
+        },
+        {
+          "text": "merhabba"
+        },
+        {
+          "text": "mrhb"
+        },
+        {
+          "text": "Nasılsın"
+        },
+        {
+          "text": "sa"
+        },
+        {
+          "text": "Selam"
+        },
+        {
+          "text": "Selamun aleyküm"
+        },
+        {
+          "text": "silam"
+        },
+        {
+          "text": "sleam"
+        },
+        {
+          "text": "slm"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "TauproteinHk.",
+      "examples": [
+        {
+          "text": "protein tau"
+        },
+        {
+          "text": "Tau"
+        },
+        {
+          "text": "Tau hakkında"
+        },
+        {
+          "text": "Tau hakkında bilgi almak istiyorum"
+        },
+        {
+          "text": "tau proteini"
+        },
+        {
+          "text": "tau proteini hakkında detaylı bilgi almak istiyorum"
+        },
+        {
+          "text": "tau proteini ile ilgili"
+        },
+        {
+          "text": "tau proteiniyle ilgili"
+        },
+        {
+          "text": "tau proteins"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "TedaviHk.",
+      "examples": [
+        {
+          "text": "tedaavi"
+        },
+        {
+          "text": "tedavi"
+        },
+        {
+          "text": "tedavi alakalı bilgi almak isitoyurm"
+        },
+        {
+          "text": "tedavi hakkında bilgi almak istiyorum"
+        },
+        {
+          "text": "tedavii"
+        },
+        {
+          "text": "tedavi ile alakalı"
+        },
+        {
+          "text": "tedavi lütfen"
+        },
+        {
+          "text": "tedaviyle ilgili bilgi almak istiyorum"
+        },
+        {
+          "text": "tedaviyle ilgili lütfen"
+        },
+        {
+          "text": "tteadavii"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "teşekkür",
+      "examples": [
+        {
+          "text": "appreciate it"
+        },
+        {
+          "text": "it is greate"
+        },
+        {
+          "text": "its greate"
+        },
+        {
+          "text": "merci"
+        },
+        {
+          "text": "minnettarım"
+        },
+        {
+          "text": "sağol"
+        },
+        {
+          "text": "saol"
+        },
+        {
+          "text": "so helpful"
+        },
+        {
+          "text": "teşekkür ederim"
+        },
+        {
+          "text": "teşekkürler"
+        },
+        {
+          "text": "teşkür"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "tnk"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "TürkiyeDurum",
+      "examples": [
+        {
+          "text": "lütfen Türkiye hakkında"
+        },
+        {
+          "text": "lütfen Türkiye hakkında genel durum"
+        },
+        {
+          "text": "Tr"
+        },
+        {
+          "text": "Trk"
+        },
+        {
+          "text": "Trky"
+        },
+        {
+          "text": "Try"
+        },
+        {
+          "text": "TTürkiye"
+        },
+        {
+          "text": "Turkey"
+        },
+        {
+          "text": "Turkey please"
+        },
+        {
+          "text": "TÜrkie"
+        },
+        {
+          "text": "Türkiye"
+        },
+        {
+          "text": "Türkiyee"
+        },
+        {
+          "text": "Türkiye hakkında bilgi almak istiyorum"
+        },
+        {
+          "text": "Türkiye hakkında genel durum"
+        },
+        {
+          "text": "Türkiye hakkında genel durum lütfen"
+        },
+        {
+          "text": "Türkiye hakkında lütfen"
+        },
+        {
+          "text": "türkiye lütfen"
+        },
+        {
+          "text": "türkiyyee"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "down_syndrome",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "down sendrom",
+          "synonyms": [
+            "down sendrom"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "down sendromu",
+          "synonyms": [
+            "ds"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "down syndrome",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "ds",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "trisomy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "trizomik",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "MemantineHk",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ilacla ilgili bilgi ver",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "memantine",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Memantine hakkında",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "memantine ilacı hakkında bilgi ver",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "memantine ile ilgili",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "memantine ile ilgili bilgi ver",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "memantine nedir",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "proteine_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "APP_N",
+          "synonyms": [
+            "APP"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BDNF_N",
+          "synonyms": [
+            "BDNF"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "BRAF_N",
+          "synonyms": [
+            "BRAF"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "CaNA_N",
+          "synonyms": [
+            "CaNA"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "GluR3_N",
+          "synonyms": [
+            "GluR3"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "IL1B_N",
+          "synonyms": [
+            "IL1B",
+            "ilib"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "NR2A_N",
+          "synonyms": [
+            "NR2A"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "NR2B_N",
+          "synonyms": [
+            "NR2B"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "P38",
+          "synonyms": [
+            "P38"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "S6_N",
+          "synonyms": [
+            "S6"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "SYP_N",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Tau_N",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "proteins",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "protein bilgisi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "proteinler",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "proteinler hakkında",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "proteinlerle ilgili bilgi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "proteinlerle ilgili bilgi almak istiyorum",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-percentage",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ne demek istediğini anlamadım."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_8_1620847105961",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_1_1621317272994",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1621317299790",
+      "previous_sibling": "node_2_1621317466385"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_3_1621318718192",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1621318748253",
+      "previous_sibling": "node_10_1621319143686"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1621318748753",
+      "context": {
+        "down_syndrome": "@down_syndrome"
+      },
+      "conditions": "@down_syndrome",
+      "event_name": "input",
+      "dialog_node": "handler_1_1621318748770"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_5_1620908310970",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1620908424208",
+      "previous_sibling": "node_8_1621319499525"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1621318748753",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1621318748770",
+      "previous_sibling": "handler_1_1621318748770"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1620908424799",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1620908424809",
+      "previous_sibling": "handler_9_1620908424809"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1620908424799",
+      "context": {
+        "MemantineHk": "@MemantineHk"
+      },
+      "conditions": "@MemantineHk",
+      "event_name": "input",
+      "dialog_node": "handler_9_1620908424809"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir istek red",
+      "parent": "node_3_1621318718192",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_10_1621319143686",
+      "previous_sibling": "node_4_1621319049100"
+    },
+    {
+      "type": "standard",
+      "title": "#NR2AproteinHK.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Merkezi sinir sistemi üzerinde önemli rol oynayan reseptör proteinidir. NMDA reseptörüne bağlı geniş yüzey alanına sahiptir. Bir çok sinapsta uyarıcı nörotransmitter olarak görev yapar. Bu proteinin ekspresyon bozukluğu gelişimsel ve öğrenme eksikliklerine sahip olduğu bulunmuştur.  Bu proteinin ekspresyon seviyesinin bozukluğu izoformu olan NR2B proteinindeki bozukluğada sebep olmaktadır. NMDA reseptörü dahil olmak üzere bir çok reseptöre etkiyerek çeşitli sinyal yolak bozukluklarına sebep olmaktadır. Memantine ilacı ile doğrudan yüzey bağlantısı yapmaktadır. İlaç ile olan bu bağlantı kuyruk şeklinde gerçekleşmekte ve S6 proteinide bu kuyruk bağlantıda yer almaktadır. Bu bağlantı zincirinin başındaki bozukluk S6 proteinini de etkilemektedir."
+              },
+              {
+                "text": "Başka bir bilgi almak ister misiniz ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#NR2AproteinHK.",
+      "dialog_node": "node_10_1622890691072",
+      "previous_sibling": "node_6_1622889900389"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı onaylama",
+      "parent": "node_3_1622922832753",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_10_1622923196083"
+    },
+    {
+      "type": "standard",
+      "title": "Hoşçakal",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hoşçakal. Bir dahaki sefer görüşmek üzere."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hoşçakal",
+      "dialog_node": "node_1_1620847011928",
+      "previous_sibling": "node_4_1620859699790"
+    },
+    {
+      "type": "frame",
+      "title": "ProteinlerHk.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yaptığımız çalışmada beynin kortex bölgesinden alınan 9 proteinin Down Sendromunda öğrenme becersini olumsuz etkilediğini tespit ettik."
+              },
+              {
+                "text": "Bu proteinlerin isimleri ve öğrenme becerisi üzerinde önem yüzdeleri şöyledir ;"
+              },
+              {
+                "text": "IL1B_N - 2.49%\nNR2B_N - 2.59%\nBRAF_N - 3.02%\nS6_N - 3.32%\nGluR3_N - 5.80%\nNR2A_N - 6.58%\nTau_N - 7.15%\nAPP_N - 11.67%\nP38_N - 24.29%"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1620859699790",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1621317466385"
+      },
+      "conditions": "#ProteinlerHk.",
+      "dialog_node": "node_1_1621317272994",
+      "previous_sibling": "node_5_1620908310970"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir istek onaylama",
+      "parent": "node_5_1621317847701",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_1_1621318475020"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir istek onaylama",
+      "parent": "node_5_1620908310970",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_1_1621319469931"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_3_1622888938151",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_1_1622891469318",
+      "previous_sibling": "node_6_1622891447078"
+    },
+    {
+      "type": "standard",
+      "title": "ProteinlerDetaylıBilgi",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Listedeki spesifik bir protein için detaylı bilgi almak ister misin ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1621317272994",
+      "conditions": "",
+      "dialog_node": "node_2_1621317466385"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bir hücre yüzey reseptörü olarak işlev görür ve sinaps oluşumunun ve onarımdır, nöral plastisitenin , antimikrobiyal aktivitenin ve demir transferinin bir düzenleyicisidir."
+              },
+              {
+                "text": "Alzheimer hastalığı ve Down Sendrom göstergesi olarak, APP geni çeşitliliği nedeniyle sağlıklı bireylerden nöronlar daha somatiktir."
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#APPproteinHK.",
+      "dialog_node": "node_2_1621321264573"
+    },
+    {
+      "type": "standard",
+      "title": "#IL1BproteinHk.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "İmmun sistem proteinidir. İnsanda iki gen tarafından oluşturulur bu genler ; IL-1Beta IL-1Alfa'dır. İnterlökin ismiylede bilinmektedir.  Bu proteinin etkisi Down sendromlu bireylerin fenotipinde yoğun olarak gözlenmektedir. Diş çürümeleri , yüzün alın bölgesinde lekelenmeler ve konuşmada aksamaları meydana getirmektedir. Down sendromlu bireylerde ekspresyonunun normal seviyenin altında olması bozukluğa sebep olmaktadır. Çeşitli proteinlerin aktivasyonu sonucu bu proteinin inhibe olduğunu düşünüyoruz. Peridontal eksiklikleride dolaylı yoldan tetikleyerek down sendromlu bireylerde öğrenme yeteğini kayıbını etkilemektedir. Memantine ilacı bu protein ile antibody uyumu sayesinde doğrudan bağlanarak iletişime geçebilmektedir."
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#IL1BproteinHk.",
+      "dialog_node": "node_2_1622922281584",
+      "previous_sibling": "node_4_1622894518264"
+    },
+    {
+      "type": "standard",
+      "title": "#NR2BproteinHk.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "NMDA reseptörleri, iyonik glutamat reseptör protein sınıfının üyesidir. Belirli hafıza ve öğrenme türlerinin altında yattığı düşünülen sinaptik iletimin verimlik aktivitesinden sorumludur. Beyindeki baskın uyarıcı nörotransmitter reseptör proteinlerinden biridir. Alzheimer ve Down Sendromlu bireylerde ilk 3 aydan sonra etkileri belirgin şekilde göstermektedir. Kendisine antigonist olan bazı proteinlerin fosforilasyon düzeylerine etki ederek öğrenme bozukluğu üzerinde büyük etkisi olduğu düşünülmektedir. "
+              },
+              {
+                "text": "Başka bir isteğiniz var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#NR2BproteinHk.",
+      "dialog_node": "node_2_1622923281107",
+      "previous_sibling": "node_3_1622922832753"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı onaylama",
+      "parent": "node_2_1622923281107",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_2_1622923625685"
+    },
+    {
+      "type": "standard",
+      "title": "Onay",
+      "parent": "node_7_1623013755184",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_2_1623014225205"
+    },
+    {
+      "type": "standard",
+      "title": "Onay",
+      "parent": "node_9_1623014295705",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_2_1623014501755"
+    },
+    {
+      "type": "standard",
+      "title": "Başka  bir istek red",
+      "parent": "node_5_1621317847701",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_3_1621318519186",
+      "previous_sibling": "node_1_1621318475020"
+    },
+    {
+      "type": "frame",
+      "title": "DownSendromu Hk. Bilgi",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Down sendromu, genetik bir farklılık, bir kromozom anomalisidir. En basit anlatımı ile sıradan bir insan vücudunda bulunan kromozom sayısı 46 iken Down sendromlu bireylerde bu sayı üç adet 21. kromozom olması nedeniyle 47 olmaktadır. Özellikle bu bireylerde zeka geriliği ve öğrenme güçlüğü sıklıkla gözükmektedir. İleri yaşlarda genellikle Alzheimer hastalığına yakalanmaktadırlar."
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1620859699790",
+      "conditions": "#DownSndrmHk.",
+      "dialog_node": "node_3_1621318718192",
+      "previous_sibling": "node_1_1621317272994"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_2_1621321264573",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_3_1621321837891",
+      "previous_sibling": "node_6_1621321794422"
+    },
+    {
+      "type": "standard",
+      "title": "#P38proteinHK.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " P38 proteini Down sendromu hastalığında bozukluğa sebep olan MAPK yolağını aktive eden en güçlü spesifik proteindir. P38'in anormal aktivitesi (fizyolojik değerinden daha yüksek veya düşük), nöronal ve kardiyak gibi çeşitli dokulardaki patolojik streslerle ilişkilendirilmiştir, bu ilişkide bilişsel bozukluklara sebep verdiği bulunmuştur.  p38'in aktivitesini fazla olması transkripsiyon faktörü NF-KB'nin aşırı yüksek aktivitesine neden olabilir. Bu transkripsiyon faktörü normalde çevre dokudan ve bağışıklık sisteminden gelen sinyalleri entegre eden hücre içi yollardan düzenlenir ve bağışıklık sisteminde bozukluğa dolaylı olarak etkisi görülmektedir."
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#P38proteinHk.",
+      "dialog_node": "node_3_1622888938151",
+      "previous_sibling": "node_2_1621321264573"
+    },
+    {
+      "type": "standard",
+      "title": "#BRAFproteinHk.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hücre döngüsü, katalik olaylar , fosforilasyon ve aktivasyon döngüsü gibi bir çok olayda doğrudan görev almaktadır. Katalik olaylarda proteine anti body bağlanmasından sorumludur. Bozukluğu enzimatik olaylar ve bağlanma olaylarını bozmaktadır. BRAF proteini MAPK yolağında sinyal iletimi ve aktivasyonunda doğrudan rol oynuyor. Down sendromu hastalarında MAPK yolağında bu proteinin yol açtığı sinyal bozukluğu öğrenme ve bilişsel faliyet bozukluklarına yol açtığı savunulmaktadır. Bu proteinin işlev bozukluğu ileri yaşta karaciğer hastalıklarına da neden olmaktadır. Down Sendromlu bireylerde sık sık görülmektedir."
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#BRAFproteinHK.",
+      "dialog_node": "node_3_1622922832753",
+      "previous_sibling": "node_2_1622922281584"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_2_1622923281107",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_3_1622923653208",
+      "previous_sibling": "node_2_1622923625685"
+    },
+    {
+      "type": "standard",
+      "title": "İstatistikDurum",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "İstatistiksel durum için hangi kategoriyi tercih edersiniz ?"
+              },
+              {
+                "text": "-Global (Dünya) geneli durum"
+              },
+              {
+                "text": "-Türkiye"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1620859699790",
+      "conditions": "#İstatikselDurum",
+      "dialog_node": "node_3_1623013442970",
+      "previous_sibling": "node_3_1621318718192"
+    },
+    {
+      "type": "standard",
+      "title": "Red",
+      "parent": "node_7_1623013755184",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_3_1623014245916",
+      "previous_sibling": "node_2_1623014225205"
+    },
+    {
+      "type": "standard",
+      "title": "Greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Size nasıl yardımcı olabilirim ?"
+              },
+              {
+                "text": "Senin için ne yapabilirim ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Selamlama",
+      "dialog_node": "node_4_1620846611489",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Ne hakkında bilgi almak istiyorsun ?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ne hakkında bilgi almak istersiniz ?"
+              },
+              {
+                "text": "'Down Sendrom'"
+              },
+              {
+                "text": "'Memantine ilacı'"
+              },
+              {
+                "text": "'Proteinler'"
+              },
+              {
+                "text": "'İstatiksel Durum'"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#bilgial",
+      "dialog_node": "node_4_1620859699790",
+      "previous_sibling": "node_4_1620846611489"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir istek onaylama",
+      "parent": "node_3_1621318718192",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_4_1621319049100"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_6_1622889900389",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_4_1622891383451",
+      "previous_sibling": "node_6_1622891352812"
+    },
+    {
+      "type": "standard",
+      "title": "#GluR3proteinHk.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Glutamat reseptör proteinidir,  GRIA3 geni tarafından kodlanmaktadır. Sinir sistemi üzerinde önemli rol oynar ; uyarıcı nörotransmiter reseptörleridir ve çeşitli normal nörofizyolojik süreçlerde aktive edilir. (AMPKA) reseptörleri ailesine aittir ve MAPK yolağı üzerinde önemli demans etkilerine sahiptir. Down sendromlu bireylerde kalıcı hafıza bozukluklarına sebep olabileceği düşünülmektedir."
+              },
+              {
+                "text": "Başka bir isteğiniz var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#GluR3proteinHk",
+      "dialog_node": "node_4_1622891625661",
+      "previous_sibling": "node_10_1622890691072"
+    },
+    {
+      "type": "standard",
+      "title": "#S6proteinHk.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ribozomal alt birim proteinidir. Doğrudan translasyonda görev almaktadır. Down sendromda bozukluğa uğrayan genlerin birinci dereceden sorumlusu olarak bilinmektedir. Hücre boyutu , hücre bölünmesi ve homeostazda da görev aldığı bilinmektedir. Alzheimer hastalığında bilişsel demanslara sebep olduğu kanıtlanmıştır. Fosforilasyon indüklenmesine yol açarak çeşitli proteinlerinde kontrolsüz sentezlenmesine yol açmaktadır.  Down sendromlu (DS) hastalarda erken beyin gelişimi sırasında deregülasyonunun meydana getirmektedir."
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#S6proteinHk.",
+      "dialog_node": "node_4_1622894518264",
+      "previous_sibling": "node_4_1622891625661"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_3_1622922832753",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_4_1622923229795",
+      "previous_sibling": "node_10_1622923196083"
+    },
+    {
+      "type": "frame",
+      "title": "Memantine İlacı Hk.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "NMDR Reseptörü Antagonisti Memantine ilacı Down Sendromlu bireylerde öğrenme ve bilişsel yeteneklerini tekrar kazandırdığı kurtarıldığı sonucu elde edilmiştir. Bu ilaç NMDR reseptörüne etki eder."
+              },
+              {
+                "text": "İlacın 'Down Sendromu' hastalığında zeka geriliği ve öğrenme becerisi üzerinde tedavi edici etkisi vardır. "
+              },
+              {
+                "text": "İlaç tespit ettiğimiz 9 proteinin sinyal yolaklarına etki ederek bu yolaklardaki sinyal bozukluğunu gidermektedir."
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_4_1620859699790",
+      "conditions": "#Memantinehk || #TedaviHk.",
+      "dialog_node": "node_5_1620908310970"
+    },
+    {
+      "type": "standard",
+      "title": "Hangi Protein",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tamam öyleyse proteinler hakkında bu kadar yeterli olsun :)"
+              },
+              {
+                "text": "Başka bir isteğin var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1621317466385",
+      "conditions": "#Reddetme",
+      "dialog_node": "node_5_1621317847701",
+      "previous_sibling": "node_7_1621317610696"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı onaylama",
+      "parent": "node_4_1622891625661",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_5_1622892150142"
+    },
+    {
+      "type": "standard",
+      "title": "Başka Bir isteğin varmı onaylama",
+      "parent": "node_2_1621321264573",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_6_1621321794422"
+    },
+    {
+      "type": "standard",
+      "title": "#TauproteinHK.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tau proteinin az çözünmesi Down sendromu ve Alzheimer hastalığındaki bozuklukları oluşturduğu çeşitli çalışmalarda ispatlanmıştır. Bu proteinin az çözünmesi yüksek ekspresyonuna sebep olur ve uzun süreli bellek ( hafıza ) hücrelerinin negatif etkisine sebep vermektedir. Tau proteinleri, insanlarda nöronal olmayan hücrelere göre nöronlarda daha sık bulunur. Tau'nun ana işlevlerinden biri, aksonal mikrotübüllerin stabilitesini modüle etmektir . Diğer sinir sistemi mikrotübül ilişkili proteinler (MAPK'ler), beyin gelişiminde anormallikler göstermez, Ts65Dn memantine uygulanmış farelerde görülen kurtalışmış öğrenme davranışı gibi benzer işlevleri yerine getirebilir."
+              },
+              {
+                "text": "Başka bir isteğiniz var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_7_1621317610696",
+      "conditions": "#TauproteinHk.",
+      "dialog_node": "node_6_1622889900389",
+      "previous_sibling": "node_3_1622888938151"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı Onaylama",
+      "parent": "node_6_1622889900389",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_6_1622891352812"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı Onaylama",
+      "parent": "node_3_1622888938151",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_6_1622891447078"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_4_1622891625661",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_6_1622892180461",
+      "previous_sibling": "node_5_1622892150142"
+    },
+    {
+      "type": "standard",
+      "title": "Hangi Proteins",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Lütfen detaylı bilgi almak istediğin proteinin ismini söyler misin ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1621317466385",
+      "conditions": "#Onaylama",
+      "dialog_node": "node_7_1621317610696"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_2_1622922281584",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_7_1622922775886",
+      "previous_sibling": "node_9_1622922740765"
+    },
+    {
+      "type": "standard",
+      "title": "Global",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ortalama her 800 doğumda bir görülür. Tüm dünyada 6 milyon civarında Down sendromlu birey yaşamaktadır. 35 yaşüstü hamileliklerde risk artar. Ancak genel olarak genç kadınlar daha fazla bebek sahibi olduğundan Down sendromlu çocukların %75-80'i genç annelerin bebekleridir. "
+              },
+              {
+                "text": "Başka bir isteğiniz var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1623013442970",
+      "conditions": "#Glob",
+      "dialog_node": "node_7_1623013755184"
+    },
+    {
+      "type": "standard",
+      "title": "Teşekkür",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Rica ederim."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#teşekkür",
+      "dialog_node": "node_8_1620847105961",
+      "previous_sibling": "node_1_1620847011928"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir istek red",
+      "parent": "node_5_1620908310970",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_8_1621319499525",
+      "previous_sibling": "node_1_1621319469931"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_10_1622890691072",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_8_1622891272733",
+      "previous_sibling": "node_9_1622891234781"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı red",
+      "parent": "node_4_1622894518264",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_8_1622895009119",
+      "previous_sibling": "node_9_1622894977813"
+    },
+    {
+      "type": "standard",
+      "title": "Red",
+      "parent": "node_9_1623014295705",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1620847011928"
+      },
+      "conditions": "#Reddetme",
+      "dialog_node": "node_8_1623014519987",
+      "previous_sibling": "node_2_1623014501755"
+    },
+    {
+      "type": "standard",
+      "title": "Başka Bir isteğin varmı onaylama",
+      "parent": "node_10_1622890691072",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_9_1622891234781"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı onaylama",
+      "parent": "node_4_1622894518264",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_9_1622894977813"
+    },
+    {
+      "type": "standard",
+      "title": "Başka bir isteğin varmı onaylama",
+      "parent": "node_2_1622922281584",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1620859699790"
+      },
+      "conditions": "#Onaylama",
+      "dialog_node": "node_9_1622922740765"
+    },
+    {
+      "type": "standard",
+      "title": "Türkiye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ortalama her 800 doğumda bir görülür.  Türkiye'de tam bir veri yok ama yaklaşık 70.000 Down sendromlu kişi olduğu tahmin ediliyor. 35 yaşüstü hamileliklerde risk artar. Ancak genel olarak genç kadınlar daha fazla bebek sahibi olduğundan Down sendromlu çocukların %75-80'i genç annelerin bebekleridir. "
+              },
+              {
+                "text": "Başka bir isteğiniz var mı ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_3_1623013442970",
+      "conditions": "#TürkiyeDurum",
+      "dialog_node": "node_9_1623014295705",
+      "previous_sibling": "node_7_1623013755184"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1621318718192",
+      "variable": "$down_syndrome",
+      "dialog_node": "slot_10_1621318748753",
+      "previous_sibling": "handler_1_1621318748253"
+    },
+    {
+      "type": "slot",
+      "parent": "node_5_1620908310970",
+      "variable": "$MemantineHk",
+      "dialog_node": "slot_7_1620908424799",
+      "previous_sibling": "handler_2_1620908424208"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Merhaba. Down Sendrom Botu AKTİF !"
+              },
+              {
+                "text": "Hey. Down Sendrom Botu Hizmetinde."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "asdkadk"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Memantine Down Syndrome",
+  "language": "xx",
+  "description": ""
+}
